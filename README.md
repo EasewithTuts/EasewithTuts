@@ -1,8 +1,6 @@
-# ~~Harsha2k925~~ EasewithTuts
- I decided to rebrand the user from @Harsha2k925 to 
-@EasewithTuts
+# Hi,I am EasewithTuts.
 
-## Upcoming Projects...👀
+## Currently Learning
 
-* ???
 
+![alt text]()
