@@ -1,7 +1,7 @@
 <h1>I am EasewithTuts</h1>
 
 # Currently Learning
-<code><img height="40" src="https://raw.githubusercontent.com/EasewithTuts/EasewithTuts/master/assets/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/EasewithTuts/EasewithTuts/master/assets/Python-logo-notext.svg.png"></code>
 
 # Contact
 <kbd>[<img title="Python" alt="https://github.com/EasewithTuts" src="https://cdn-icons-png.flaticon.com/512/25/25231.png?w=360" width="32">]()</kbd>
