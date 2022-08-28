@@ -2,7 +2,7 @@
 
 # Currently Learning
 <code><img height="40" src="https://raw.githubusercontent.com/EasewithTuts/EasewithTuts/master/assets/Python-logo-notext.svg.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/EasewithTuts/EasewithTuts/master/assets/ISO_C++_Logo.svg.png"></code>
+
 
 # Contact
 <code><img title="Python" alt="https://github.com/EasewithTuts" src="https://cdn-icons-png.flaticon.com/512/25/25231.png?w=360" width="32"></code>
